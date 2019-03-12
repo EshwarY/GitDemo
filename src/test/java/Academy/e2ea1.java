@@ -40,6 +40,7 @@ public class e2ea1 extends reqmethods {
 				
 				
 				System.out.println(text);
+				System.out.println("Git Test User2");
 				
 			}
 			@AfterTest
