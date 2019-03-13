@@ -40,7 +40,7 @@ public class e2ea1 extends reqmethods {
 				
 				
 				System.out.println(text);
-				System.out.println("Branch Insert");
+				
 				
 				
 			}
